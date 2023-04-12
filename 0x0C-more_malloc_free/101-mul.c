@@ -2,15 +2,15 @@
 #include <stdlib.h>
 
 /**
- * main - Check the code
- * @argc: number of arguments
- * @argv: arguments
- * Return: Nothing
- */
+ *  * main - Check the code
+ *   * @argc: number of arguments
+ *    * @argv: arguments
+ *     * Return: Nothing
+ *      */
 int main(int argc, char **argv)
 {
 	int num1, num2, result;
-
+	
 	if (argc != 3)
 	{
 		printf("Error\n");
