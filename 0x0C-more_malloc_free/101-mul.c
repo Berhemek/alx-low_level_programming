@@ -11,7 +11,7 @@
  */
 void _is_zero(char *argv[])
 {
-	int i, j, isn1 = 1, isn2 = 1;
+	int i, isn1 = 1, isn2 = 1;
 
 	for (i = 0; argv[1][i]; i++)
 		if (argv[1][i] != '0')
